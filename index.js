@@ -44,7 +44,7 @@ bot.on('message', (message) => {
 })
 // После создания бота
 bot.on('spawn', () => {
-  bot.chat('/l ugurtop1gg');
+  bot.chat('/l ugurnelox981');
   bot.chat('/ванблок');
   console.log('Bot is ready!');
 });
